@@ -6,3 +6,4 @@ c=a+b
 print(c)
 d=c+b
 print(d)
+print(a)
